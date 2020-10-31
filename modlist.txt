@@ -4,9 +4,7 @@
 ..\..\..\..\workshop\content\440900\1734383367\Tutorial.pak
 ..\..\..\..\workshop\content\440900\1456186728\Exiled_lands_improved.pak
 ..\..\..\..\workshop\content\440900\2145102437\KrabbitExiles_Maps.pak
-..\..\..\..\workshop\content\440900\2200758366\HeraldsOfStrife-RebirthV2AOC.pak
 ..\..\..\..\workshop\content\440900\2050780234\BarbaricBarber.pak
-..\..\..\..\workshop\content\440900\1542041983\RA.pak
 ..\..\..\..\workshop\content\440900\1159180273\StylistPlus.pak
 ..\..\..\..\workshop\content\440900\933782986\ExilesExtreme.pak
 ..\..\..\..\workshop\content\440900\1402835318\Warrior_mutator_mod.pak
@@ -14,7 +12,6 @@
 ..\..\..\..\workshop\content\440900\2091626834\ThrallMaster.pak
 ..\..\..\..\workshop\content\440900\1802389425\ThrallSideKick.pak
 ..\..\..\..\workshop\content\440900\1639336393\QoL.pak
-..\..\..\..\workshop\content\440900\1657730588\Improved_Quality_of_Life.pak
 ..\..\..\..\workshop\content\440900\1699858371\DungeonMasterTools.pak
 ..\..\..\..\workshop\content\440900\1823412793\ModControlPanel.pak
 ..\..\..\..\workshop\content\440900\1396310739\StacksizePlus.pak
