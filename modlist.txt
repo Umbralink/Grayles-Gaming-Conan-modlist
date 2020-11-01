@@ -11,12 +11,16 @@
 ..\..\..\..\workshop\content\440900\933782986\ExilesExtreme.pak
 ..\..\..\..\workshop\content\440900\1402835318\Warrior_mutator_mod.pak
 ..\..\..\..\workshop\content\440900\1966733568\immersivearmor.pak
+..\..\..\..\workshop\content\440900\1705201022\SvS_Extended.pak
+..\..\..\..\workshop\content\440900\1889798538\SvS2.pak
+..\..\..\..\workshop\content\440900\1382183303\Pythagoras_Support_Beams.pak
 ..\..\..\..\workshop\content\440900\2091626834\ThrallMaster.pak
 ..\..\..\..\workshop\content\440900\1802389425\ThrallSideKick.pak
 ..\..\..\..\workshop\content\440900\1639336393\QoL.pak
 ..\..\..\..\workshop\content\440900\1699858371\DungeonMasterTools.pak
 ..\..\..\..\workshop\content\440900\1823412793\ModControlPanel.pak
 ..\..\..\..\workshop\content\440900\1396310739\StacksizePlus.pak
+..\..\..\..\workshop\content\440900\1411872074\Ancient_Architect.pak
 ..\..\..\..\workshop\content\440900\1959174056\BuildersWorkbench.pak
 ..\..\..\..\workshop\content\440900\1629644846\KerozardsParagonLeveling.pak
 ..\..\..\..\workshop\content\440900\1795613607\PrestigeMoreAttributeLevels.pak
