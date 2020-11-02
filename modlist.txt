@@ -4,6 +4,9 @@
 ..\..\..\..\workshop\content\440900\1734383367\Tutorial.pak
 ..\..\..\..\workshop\content\440900\1456186728\Exiled_lands_improved.pak
 ..\..\..\..\workshop\content\440900\2145102437\KrabbitExiles_Maps.pak
+..\..\..\..\workshop\content\440900\2199839733\TheDarkwoods.pak
+..\..\..\..\workshop\content\440900\1545911731\Assets_Mod.pak
+..\..\..\..\workshop\content\440900\2209243164\RemoveCurseWall.pak
 ..\..\..\..\workshop\content\440900\2050780234\BarbaricBarber.pak
 ..\..\..\..\workshop\content\440900\1938818750\AkubaSalon.pak
 ..\..\..\..\workshop\content\440900\1542041983\RA.pak
@@ -11,8 +14,6 @@
 ..\..\..\..\workshop\content\440900\933782986\ExilesExtreme.pak
 ..\..\..\..\workshop\content\440900\1402835318\Warrior_mutator_mod.pak
 ..\..\..\..\workshop\content\440900\1966733568\immersivearmor.pak
-..\..\..\..\workshop\content\440900\1705201022\SvS_Extended.pak
-..\..\..\..\workshop\content\440900\1889798538\SvS2.pak
 ..\..\..\..\workshop\content\440900\1382183303\Pythagoras_Support_Beams.pak
 ..\..\..\..\workshop\content\440900\2091626834\ThrallMaster.pak
 ..\..\..\..\workshop\content\440900\1802389425\ThrallSideKick.pak
